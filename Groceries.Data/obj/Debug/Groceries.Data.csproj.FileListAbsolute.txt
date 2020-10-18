@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Data\bin\Debug\Groceries.Data.dll
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Data\bin\Debug\Groceries.Data.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Data\obj\Debug\Groceries.Data.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Data\obj\Debug\Groceries.Data.dll
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Data\obj\Debug\Groceries.Data.pdb

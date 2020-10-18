@@ -1,0 +1,14 @@
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\bin\Debug\Groceries.Applayer.exe
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\bin\Debug\Groceries.Applayer.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.FormHome.resources
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.FormLogin.resources
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.FormManag.resources
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.exe
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.pdb
+E:\c#\GroceriesslnDemo)\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.exe
+E:\c#\GroceriesslnDemo)\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.pdb
+E:\c2\c#\GroceriesslnDemo)\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.exe
+E:\c2\c#\GroceriesslnDemo)\Groceriessln\Groceries.Applayer\obj\Debug\Groceries.Applayer.pdb

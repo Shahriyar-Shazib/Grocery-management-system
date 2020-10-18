@@ -1,0 +1,4 @@
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Entity\bin\Debug\Groceries.Entity.dll
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Entity\bin\Debug\Groceries.Entity.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Entity\obj\Debug\Groceries.Entity.dll
+c:\users\asus\documents\visual studio 2012\Projects\Groceriessln\Groceries.Entity\obj\Debug\Groceries.Entity.pdb
